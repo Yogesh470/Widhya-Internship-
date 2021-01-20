@@ -2,4 +2,4 @@
 
 Task 1 : Bitcoin price prediction using Linear Regression 
 
-Task 2 : COVID-19 analysis
+Task 2 : COVID-19 analysis using Quantitative modeling
